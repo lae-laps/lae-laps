@@ -6,7 +6,7 @@
 
 ## Language Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lae-laps&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lae-laps&theme=light)
 
 ## General Statistics
 
