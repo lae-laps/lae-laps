@@ -6,6 +6,6 @@
 
 ## General Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lae-laps&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lae-laps&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lae-laps)](https://github.com/lae-laps/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lae-laps)](https://github.com/lae-laps/github-readme-stats&theme=dark)
